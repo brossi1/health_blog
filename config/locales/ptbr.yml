@@ -1,0 +1,38 @@
+ptbr:
+  layouts:
+    application:
+      home_link: "Início"
+      about_link: "Sobre a página"
+      static_blog_link: "Blog estático"
+      dynamic_blog_link: "Blog dinâmico"
+      language_options: "Mude o idioma para:"
+  static_pages:
+    home:
+      home_intro: "Os benefícios da alimentação correta"
+      home_intro_2: "Este \"blog\" é dedicado à alimentação saudável"
+      home_intro_3: "Clique em qualquer parte da página"
+    about:
+      about_title: "Informações sobre a página"
+      about_text1: "Este parágrafo explica o que o aplicativo faz, quem o criou, por que ele é maravilhoso, etc."
+      about_text2: "Alguns detalhes comuns de uma página 'Sobre a página'"
+      about_contact_us: "Contato"
+      about_gallery: "Galeria"
+      about_sign_up: "Assinatura"
+    blog:
+      blog_title: "A dieta hipócrita do hipster"
+      blog_subtitle: "A guerra do bacon contra a couve de bruxelas."
+      blog_fig: "Os hipsters são famosos por favorecer a comida local e orgâica, mas também têm fama de abusar do bacon e das cervejas artesanais."
+      blog_paragraph_1: "Esse grupo, que no passado só ouvia música underground e evitavam fazer qualquer coisa que a grande massa fazia, tornaram-se uma potência do mundo culinário, advogando em defesa dos hábitos culinários saudáveis, da comida local e do tratamento respeitoso à comida."
+      blog_paragraph_2: "Embora muitos hipsters adorem comer comida saudável, e se orgulhem de uma dieta com muita comida orgânica, kombucha e couve kale, eles também adoram abusar dos altos níveis calóricos das cervejas artesanais e do bacon. E quando o assunto é saúde, os nutricionistas afirmam que ambos os estilos de vida não compensam um ao outro."
+      blog_paragraph_3: "Zachary Tucker, bartender de 27 anos no Brooklyn, Nova York, é um hipster assumido que pratica yoga, faz as compras no mercado de fazendeiros da Union Square e vai para o trabalho de bicicleta. Ele também fabrica a própria cerveja e cura o próprio bacon. \"Eu amo comer,\" afirma. \"Eu faço exercícios com frequência e como muitas frutas e verduras, então eu acho que não tem problema comer uns pedaços de bacon ou beber cerveja com frequência.\""
+      blog_header_1: "Os hábitos saudáveis dos hipsters"
+      blog_paragraph_4: "Os hipsters costumam ser bem-informados em relação ao que ingerem e geralmente mantêm uma dieta baseada principalmente em plantas, o que está relacionado a uma redução no risco de doenças cardíacas, diabetes e outros problemas de saúde, afirma Kylene Bodgen, nutricionista da Clínica Cleveland. “O legal em relação a essa população é que eles comem coisas orgânicas e locais,” ela afirma. “A dieta deles geralmente não contém conservantes nem comida industrializada, o que é uma excelente ideia.”"
+      blog_paragraph_5: "A dieta à base de plantas por si só pode ajudar a compensar outros hábitos menos saudáveis, como o consumo de cerveja, afirma David Leal, nutricionista do Texas A&M Health Science Center. “Frutas e verduras são ótimos para o corpo humano” diz. “Muitas pessoas têm dificuldade de implementá-los na dieta diária. Comer várias pequenas porções durante o dia, mesmo que não seja comida orgânica, é outra forma de compensar o lado menos saudável da nossa dieta.”"
+      blog_paragraph_6: "Além disso, os hipsters são ativos fisicamente e preferem as bicicletas aos carros, diz Bogden. “Eles não percebem que vão a todos os lugares de bicicleta ou a pé,” acrescenta ela. “Há um déficit maior de calorias quando se é ativo assim, motivo pelo qual eles podem comer fora com maior frequência e não engordar.”"
+  posts:
+    index:
+      new_post: "Novo post"
+    new:
+      new_create_post: "Criar post"
+      new_back: "Retornar"
+
