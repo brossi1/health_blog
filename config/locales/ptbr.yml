@@ -31,8 +31,12 @@ ptbr:
       blog_paragraph_6: "Além disso, os hipsters são ativos fisicamente e preferem as bicicletas aos carros, diz Bogden. “Eles não percebem que vão a todos os lugares de bicicleta ou a pé,” acrescenta ela. “Há um déficit maior de calorias quando se é ativo assim, motivo pelo qual eles podem comer fora com maior frequência e não engordar.”"
   posts:
     index:
-      new_post: "Novo post"
+      new_post: "Nova post"
     new:
       new_create_post: "Criar post"
       new_back: "Retornar"
+      title: "Título"
+      new_img_url: "URL da imagem"
+      new_author: "Autor"
+      new_body: "Texto"
 

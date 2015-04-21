@@ -35,4 +35,9 @@ en:
     new:
       new_create_post: "Create Post"
       new_back: "Back"
+      title: "Title"
+      new_img_url: "Image URL"
+      new_author: "Author"
+      new_body: "Body"
+
 
